@@ -1,12 +1,15 @@
 {
   "version": 2,
-  "dgSpecHash": "7adnYP6Q6B3VMyLOeppXBWzLZh+nv0eoU8gkMHQj3uWi62JAXQzccihZPqJSdCzRQXR+D+leQ6hRLuwfV3Pt8Q==",
+  "dgSpecHash": "IvPt90GlNz6souUkVcVIciLmeAccW90sfBPrCH9e/erbUw7phhCTUQ2Yz9Q2pVlLDfgpPSjF64cbUFwojiIw7A==",
   "success": true,
   "projectFilePath": "/Users/nickhennessy/Desktop/CretaceousPark.Solution/CretaceousPark/CretaceousPark.csproj",
   "expectedPackageFiles": [
+    "/Users/nickhennessy/.nuget/packages/humanizer.core/2.8.26/humanizer.core.2.8.26.nupkg.sha512",
+    "/Users/nickhennessy/.nuget/packages/microsoft.csharp/4.7.0/microsoft.csharp.4.7.0.nupkg.sha512",
     "/Users/nickhennessy/.nuget/packages/microsoft.entityframeworkcore/5.0.0/microsoft.entityframeworkcore.5.0.0.nupkg.sha512",
     "/Users/nickhennessy/.nuget/packages/microsoft.entityframeworkcore.abstractions/5.0.0/microsoft.entityframeworkcore.abstractions.5.0.0.nupkg.sha512",
     "/Users/nickhennessy/.nuget/packages/microsoft.entityframeworkcore.analyzers/5.0.0/microsoft.entityframeworkcore.analyzers.5.0.0.nupkg.sha512",
+    "/Users/nickhennessy/.nuget/packages/microsoft.entityframeworkcore.design/5.0.0/microsoft.entityframeworkcore.design.5.0.0.nupkg.sha512",
     "/Users/nickhennessy/.nuget/packages/microsoft.entityframeworkcore.relational/5.0.0/microsoft.entityframeworkcore.relational.5.0.0.nupkg.sha512",
     "/Users/nickhennessy/.nuget/packages/microsoft.extensions.apidescription.server/3.0.0/microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "/Users/nickhennessy/.nuget/packages/microsoft.extensions.caching.abstractions/5.0.0/microsoft.extensions.caching.abstractions.5.0.0.nupkg.sha512",

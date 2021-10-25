@@ -21,8 +21,14 @@
 /Users/nickhennessy/Desktop/CretaceousPark.Solution/CretaceousPark/obj/Debug/net5.0/staticwebassets/CretaceousPark.StaticWebAssets.xml
 /Users/nickhennessy/Desktop/CretaceousPark.Solution/CretaceousPark/obj/Debug/net5.0/scopedcss/bundle/CretaceousPark.styles.css
 /Users/nickhennessy/Desktop/CretaceousPark.Solution/CretaceousPark/obj/Debug/net5.0/CretaceousPark.RazorTargetAssemblyInfo.cache
-/Users/nickhennessy/Desktop/CretaceousPark.Solution/CretaceousPark/obj/Debug/net5.0/CretaceousPark.csproj.CopyComplete
 /Users/nickhennessy/Desktop/CretaceousPark.Solution/CretaceousPark/obj/Debug/net5.0/CretaceousPark.dll
 /Users/nickhennessy/Desktop/CretaceousPark.Solution/CretaceousPark/obj/Debug/net5.0/ref/CretaceousPark.dll
 /Users/nickhennessy/Desktop/CretaceousPark.Solution/CretaceousPark/obj/Debug/net5.0/CretaceousPark.pdb
 /Users/nickhennessy/Desktop/CretaceousPark.Solution/CretaceousPark/obj/Debug/net5.0/CretaceousPark.genruntimeconfig.cache
+/Users/nickhennessy/Desktop/CretaceousPark.Solution/CretaceousPark/bin/Debug/net5.0/Humanizer.dll
+/Users/nickhennessy/Desktop/CretaceousPark.Solution/CretaceousPark/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.dll
+/Users/nickhennessy/Desktop/CretaceousPark.Solution/CretaceousPark/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/nickhennessy/Desktop/CretaceousPark.Solution/CretaceousPark/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/nickhennessy/Desktop/CretaceousPark.Solution/CretaceousPark/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/nickhennessy/Desktop/CretaceousPark.Solution/CretaceousPark/bin/Debug/net5.0/MySqlConnector.dll
+/Users/nickhennessy/Desktop/CretaceousPark.Solution/CretaceousPark/bin/Debug/net5.0/Pomelo.EntityFrameworkCore.MySql.dll

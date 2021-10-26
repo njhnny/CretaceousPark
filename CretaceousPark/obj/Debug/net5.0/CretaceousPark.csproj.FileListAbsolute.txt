@@ -32,3 +32,11 @@
 /Users/nickhennessy/Desktop/CretaceousPark.Solution/CretaceousPark/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Relational.dll
 /Users/nickhennessy/Desktop/CretaceousPark.Solution/CretaceousPark/bin/Debug/net5.0/MySqlConnector.dll
 /Users/nickhennessy/Desktop/CretaceousPark.Solution/CretaceousPark/bin/Debug/net5.0/Pomelo.EntityFrameworkCore.MySql.dll
+/Users/nickhennessy/Desktop/CretaceousPark.Solution/CretaceousPark/bin/Debug/net5.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+/Users/nickhennessy/Desktop/CretaceousPark.Solution/CretaceousPark/bin/Debug/net5.0/Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+/Users/nickhennessy/Desktop/CretaceousPark.Solution/CretaceousPark/bin/Debug/net5.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/nickhennessy/Desktop/CretaceousPark.Solution/CretaceousPark/bin/Debug/net5.0/Microsoft.IdentityModel.Logging.dll
+/Users/nickhennessy/Desktop/CretaceousPark.Solution/CretaceousPark/bin/Debug/net5.0/Microsoft.IdentityModel.Protocols.dll
+/Users/nickhennessy/Desktop/CretaceousPark.Solution/CretaceousPark/bin/Debug/net5.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/nickhennessy/Desktop/CretaceousPark.Solution/CretaceousPark/bin/Debug/net5.0/Microsoft.IdentityModel.Tokens.dll
+/Users/nickhennessy/Desktop/CretaceousPark.Solution/CretaceousPark/bin/Debug/net5.0/System.IdentityModel.Tokens.Jwt.dll
